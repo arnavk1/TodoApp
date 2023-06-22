@@ -49,10 +49,13 @@ label{
 #add{
     font-family: 'Rubik', sans-serif;
     font-weight: 900;
-    font-size: 2vh;
+    font-size: 2.4vh;
+    text-align: center;
     padding: 2px;
     border-radius: 40%;
-    margin:4px;
+    width: 4vw;
+    height: 2vw;
+    margin: 4px;
 }
 
 #add:hover{
@@ -71,16 +74,18 @@ label{
     width: 100%;
     padding:3px;
 } */
-.list{
+/* .list{
     align-self: center;
     margin: 1px 0;
-}
-.check{
+    fon
+} */
+/* .check{
     margin: 5px 0;
-}
+} */
 
 .data{
     position: relative;
+    font-size: 1.3vw;
     width:60%;
     top:20%;
     left:40%;
